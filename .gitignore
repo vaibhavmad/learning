@@ -257,4 +257,6 @@ site/
 tmp/
 temp/
 .cache/
-numpy_pandas/Pandas Course Resources/project_data
+
+git log origin/main..HEAD --oneline
+pandas/Pandas Course Resources/project_data/
